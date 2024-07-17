@@ -1,0 +1,6 @@
+.custom-input:hover, .custom-input:focus {
+    & input {
+      color: #977568 !important;
+    }
+  }
+  
